@@ -1,6 +1,6 @@
 EECS @ UC Berkeley | Software Engineer | Full-Stack Developer
 
-Projects
+Projects:
 
 - **Lanchita:** Full-stack trip planner with GPT API integration. (React, Redux, Ruby on Rails)
 - **Vocabella:** Language learning platform powered by GPT API. (Collaborative Project)
