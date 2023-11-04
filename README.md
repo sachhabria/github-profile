@@ -1,20 +1,16 @@
-### 🎓 EECS @ UC Berkeley | 🖥 Software Engineer | 🌐 Full-Stack Developer
+EECS @ UC Berkeley | Software Engineer | Full-Stack Developer
 
-## 🛠️ Projects
+Projects
 
 - **Lanchita:** Full-stack trip planner with GPT API integration. (React, Redux, Ruby on Rails)
 - **Vocabella:** Language learning platform powered by GPT API. (Collaborative Project)
 - **EcoGuard:** IoT environmental monitoring tool. (Python, Flask, Vue.js, Raspberry Pi, Arduino)
 
----
+How to reach me
 
-## 🔍 Find Me On
+- sach.chhabria@gmail.com
+- +1 (415) 696-2906
 
-- 📧 [sach.chhabria@gmail.com](mailto:sach.chhabria@gmail.edu)
-- 📞 (415) 696-2906
-- [LinkedIn](https://www.linkedin.com/in/sachinchhabria/)
-- [Portfolio](https://sachinchhabria.org/)
-  
 <!--
 **sachhabria/sachhabria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
